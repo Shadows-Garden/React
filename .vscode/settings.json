@@ -1,0 +1,15 @@
+{
+    "liveServer.settings.port": 5501,
+    "editor.acceptSuggestionOnEnter": "on",
+    "workbench.colorTheme": "Dark Chai",
+    "files.exclude": {
+        "**/.env": false,
+        "**/.git": true,
+        "**/.gitignore": false,
+        "**/node_modules": true,
+        "**/.github": true,
+        "**/package-lock.json": true,
+    },
+    "editor.mouseWheelZoom": true,
+    "editor.minimap.enabled": false
+}
