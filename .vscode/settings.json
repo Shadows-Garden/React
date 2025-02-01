@@ -6,7 +6,7 @@
         "**/.env": false,
         "**/.git": true,
         "**/.gitignore": false,
-        "**/node_modules": true,
+        "**/node_modules": false,
         "**/.github": true,
         "**/package-lock.json": true,
     },

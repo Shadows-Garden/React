@@ -18,7 +18,8 @@
 				"esbenp.prettier-vscode",
 				"vscode-icons-team.vscode-icons",
 				"hiteshchoudharycode.chai-theme",
-				"ms-azuretools.vscode-docker"
+				"ms-azuretools.vscode-docker",
+				"Zignd.html-css-class-completion"
 			],
 			"settings": {
 				"editor.fontSize": 18,
