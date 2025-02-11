@@ -19,7 +19,8 @@
 				"vscode-icons-team.vscode-icons",
 				"hiteshchoudharycode.chai-theme",
 				"ms-azuretools.vscode-docker",
-				"Zignd.html-css-class-completion"
+				"Zignd.html-css-class-completion",
+				"bradlc.vscode-tailwindcss"
 			],
 			"settings": {
 				"editor.fontSize": 18,
