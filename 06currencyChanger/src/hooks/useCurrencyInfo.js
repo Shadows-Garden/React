@@ -1,6 +1,5 @@
 import { useEffect,useState } from "react";
 
-
 //creating a custom hook(this function is a custom hook)
 function useCurrencyInfo(currency){
     const [data,setData] = useState({});
@@ -9,7 +8,7 @@ function useCurrencyInfo(currency){
     useEffect(() =>{
         fetch(`https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/${currency}.json`)
 
-        // every time you make a request using fetch(), the response is initially in raw HTTP format.
+        // every time you make a request using fetch(),theresponse is initially in raw HTTP format.
         .then((res) => res.json())
         .then((res) => setData(res[currency]))
         console.log(data);
